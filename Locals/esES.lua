@@ -9,8 +9,8 @@ function CraftSim.LOCAL_ES:GetData()
     return {
         -- REQUIRED:
         STAT_MULTICRAFT = "Multifabricación",
-        STAT_RESOURCEFULNESS = "Inventiva",
-        STAT_INGENUITY = "Ingenio",
+        STAT_RESOURCEFULNESS = "Ingenio",
+        STAT_INGENUITY = "Inventiva",
         STAT_CRAFTINGSPEED = "Velocidad de fabricación",
         EQUIP_MATCH_STRING = "Equipar:",
         ENCHANTED_MATCH_STRING = "Encantado:",
@@ -30,7 +30,7 @@ function CraftSim.LOCAL_ES:GetData()
         -- Details Frame
         RECIPE_DIFFICULTY_LABEL = "Dificultad de la receta: ",
         MULTICRAFT_LABEL = "Multifabricación: ",
-        RESOURCEFULNESS_LABEL = "Inventiva: ",
+        RESOURCEFULNESS_LABEL = "Ingenio: ",
         PATCH_NOTES_TITLE = "Notas del parche de CraftSim",
     }
 end
